@@ -9,6 +9,6 @@ export const HomePage = ({}) => {
                   Hello World
                 </Button>
             </Layout>
-        </div> 
+        </div>
     );
 }
