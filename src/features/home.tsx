@@ -6,7 +6,7 @@ export const HomePage = ({}) => {
         <div style={{height: '100%', width: '100%'}}>
             <Layout>
                 <Button variant="contained" color="primary">
-                  What's up World
+                  {`What's up World`}
                 </Button>
             </Layout>
         </div>
